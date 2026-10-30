@@ -1,1 +1,10 @@
-#This is a sample readme file for my CSC 44102 course practical created on 28/10/2026
+# GitHub Practical Project
+
+This is a sample HTML webpage created as part of a practical class exercise.
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Tobechukwu Nicholas
